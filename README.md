@@ -1,4 +1,4 @@
-Repository contains code for Kaggle problem [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space) solution. This solution won 3rd place on Private Leaderboard.
+Repository contains code to solve Kaggle problem [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space). This solution won 3rd place in competition.
 
 # Requirements:
 
