@@ -1,3 +1,5 @@
+Repository contains code for Kaggle problem [Planet: Understanding the Amazon from Space](https://www.kaggle.com/c/planet-understanding-the-amazon-from-space) solution. This solution won 3rd place on Private Leaderboard.
+
 # Requirements:
 
 Python >= 3.4, Keras 1.2.1, Theano 0.9.2, Tensorflow, XGBoost 0.6
